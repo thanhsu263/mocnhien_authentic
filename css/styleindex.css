@@ -1,0 +1,203 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0px 15px 0px;
+    margin-bottom: 10px;
+}
+
+.logo img{
+    width: 50%;
+}
+
+.login-img{
+    display: flex;
+    justify-content: center;
+}
+
+.login-img img{
+    border-radius: 50%;
+    width: 30%;
+}
+
+.name{
+    text-align: center;
+}
+
+.sec1{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.menu{
+    width: 262px;
+    padding: 0;
+}
+
+.sub{
+    margin: 0;
+    padding: 0;
+}
+
+.sub img{
+    width: 100%;
+    margin: 0;
+}
+
+.black{
+    background-color: #3F3D3E;
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+}
+
+.orange{
+    background-color: #F46C38;
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+}
+
+.green{
+    background-color: #28B310;
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+}
+
+.sub h2{
+    color: #F46C38;
+    text-align: center;
+}
+
+.sec1 img{
+    height: 234px;
+}
+
+.sec2{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.sec2-sub1{
+    padding: 0;
+}
+
+.sec2-sub2{
+    padding: 0;
+}
+
+.sec2-sub1 div{
+    background-color: #EAE0E1;
+    margin-right: 15px;
+}
+
+.sec2-sub1 h3{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.sec2-sub1 p{
+    text-align: center;
+    color: #F46C38;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.final{
+    width: 37%;
+}
+
+.sec2
+
+.sec2-sub2{
+    display: flex;
+}
+
+.img1{
+    width: 90%;
+}
+
+.img2{
+    height: 447px;
+}
+
+table{
+    width: 100%;
+}
+
+.title{
+    padding: 0;
+    color: #F46C38;
+}
+
+.table{
+    padding: 0;
+}
+
+.content{
+    padding: 0px 15px 0px 0px;
+}
+
+tr, th, td{
+    border: #F9F9F9 solid 2px;
+    line-height: 1.8;
+}
+
+.footer{
+    background-color: #0444A6;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 15px 0px 15px 0px;
+}
+
+.gray{
+    background-color: rgb(240, 240, 240);
+}
+
+a{
+    height: 56px;
+    display: flex;
+    align-items: center;
+}
+
+/* @media only screen and (max-width: 767px){
+    .menu{
+        background-color: #28B310;
+    }
+
+    .icon{
+      display: flex;
+      justify-content: right;
+    }
+
+    .header{
+        width: 70vw;
+    }
+
+    .final{
+        width: 100%;
+    }
+
+    .sec2-sub2{
+        display: block;
+    }
+
+    .img1, .img2{
+        width: 100%;
+    }
+
+    .col-xs-12{
+        padding: 0;
+    }
+
+    .m1{
+        margin-top: 15px;
+    }
+} */
+
